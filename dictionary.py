@@ -1,3 +1,5 @@
+d={}  #empty dictionary
+
 #   dictionary 
 
 marks = {
