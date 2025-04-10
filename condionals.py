@@ -4,3 +4,4 @@ if(a>=18):
     print("good for you")
 else:
     print("you are below the age of consent")
+print("end of the program")
