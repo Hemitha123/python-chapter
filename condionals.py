@@ -10,4 +10,4 @@ elif(a==0):
     print("you are entering a invalid age")
 else:
     print("you are below the age of consent")
-print("end of the program")
+print("end of the program.")
